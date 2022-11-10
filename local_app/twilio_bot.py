@@ -1,8 +1,8 @@
 from jaseci.actions.live_actions import jaseci_action  # step 1
 from twilio.rest import Client
 
-account_sid = 'AC43ef78c7eeaed4a7946b247ece883c71' 
-auth_token = 'a9605ee27aec046269204aaafc84035f' 
+account_sid = '' 
+auth_token = '' 
 client = Client(account_sid, auth_token) 
 
 
